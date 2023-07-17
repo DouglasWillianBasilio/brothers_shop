@@ -71,7 +71,7 @@ const Navbar = () => {
                         <Search style={{color:"gray", fontSize:16}}/>
                     </SearchContainer>
                 </Left>
-                <Center><Logo>BROTHERS ELETRÔNICA &copy;</Logo></Center>
+                <Center><Logo>BROTHERS ELETRÔNICA</Logo></Center>
                 <Right>
 
                     <MenuItem>REGISTRAR</MenuItem>
