@@ -14,7 +14,7 @@ const Container = styled.div `
 function Announcement() {
   return (
     <Container>
-        Toda a loja com decontos especiais!
+        Toda a loja com descontos especiais!
     </Container>
   )
 }
