@@ -25,18 +25,18 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "https://arestoarquitetura.com.br/wp-content/uploads/2014/11/cozinha-moderna.jpg",
+      title: "COZINHA MODERNA",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "https://imagens-revista.vivadecora.com.br/uploads/2020/03/Sala-de-tv-moderna-com-painel-preto.-Fonte-Pinterest.jpg",
+      title: "SALA MODERNA",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "https://media.gazetadopovo.com.br/2021/07/23173333/Com-um-som-de-de-alt%C3%ADssima-qualidade-voc%C3%AA-vai-se-sentir-em-um-verdadeiro-cinema.-960x540.jpg",
+      title: "CASA MODERNA",
     },
   ];
 
