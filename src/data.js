@@ -43,34 +43,34 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://www.jbl.com.br/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8ae641f9/JBL_LIVE_660NC_Product_Image_Hero_Black.png?sw=300&sh=300",
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://global.cdn.magazord.com.br/negoautosom/img/2022/01/produto/1507/fone-de-ouvido-jbl-bluetooth-infantil-jr-310-bt-vermelho-com-azul-1707.png?ims=fit-in/800x800/filters:fill(white)",
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://images.tcdn.com.br/img/img_prod/634182/fone_de_ouvido_bluetooth_jbl_wave_flex_preto_jblwflexblk_973_2_9a998dda376d0d0a221176f05775edad.jpg",
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://aiwa.vtexassets.com/arquivos/ids/155663/AWS-TV-43-BL-02-A---Foto-01.png?v=1776342159",
     },
     {
       id:5,
-      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      img:"https://caturrafreeshop.com.br/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/n/o/north-tech-32-smart-tv-nt-32smtv_5-removebg-preview_1.png",
     },
     {
       id:6,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      img:"https://global.cdn.magazord.com.br/negoautosom/img/2022/06/produto/3129/jbl-partybox-encore-essential-front-1605x1605px.jpg?ims=fit-in/800x800/filters:fill(white)",
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://blobmarketingsemp.blob.core.windows.net/website/2022/10/32R6500-Baixa-Frontal.png",
     },
     {
       id:8,
-      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      img:"https://imageswscdn.wslojas.com.br/files/2222/710791.png",
     },
   ]
