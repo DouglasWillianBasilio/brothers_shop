@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://blobmarketingsemp.blob.core.windows.net/website/2022/10/32R6500-Baixa-Frontal.png",
+      img:"https://www.cinemma.com.br/img/products/fire-tv-stick-full-hd-com-alexa-e-controle-remoto-por-voz_1_1200.png",
     },
     {
       id:8,
