@@ -61,6 +61,16 @@ const Right = styled.div`
     padding: 20px;
 `
 
+const ContactItem = styled.div`
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+`
+
+const Payment = styled.img`
+    width: 50%;
+    height: 30px;
+`
 
 const Footer = () => {
     return (
@@ -96,12 +106,12 @@ const Footer = () => {
             <Right>
                 <Title>Contato</Title>
                 <ContactItem>
-                   <Room /> Avenida Lucia Helena Gonçalves Viana, 916
+                   <Room style={{marginRight:"10px"}} /> Avenida Lucia Helena Gonçalves Viana, 916
                 </ContactItem>
                 <ContactItem>
-                   <Phone /> WhatsApp: +55 (43) 9 8483-8009
+                   <Phone tyle={{marginRight:"20px"}} /> WhatsApp: +55 (43) 9 8483-8009
                 </ContactItem>
-                <Payment src=""/>
+                <Payment src="https://www.melhoresdestinos.com.br/wp-content/uploads/2020/02/bandeiras-3.png"/>
             </Right>
         </Container>
     )
