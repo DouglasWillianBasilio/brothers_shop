@@ -23,9 +23,13 @@ const Filter = styled.div`
 const FilterText = styled.span`
     font-size: 20px;
     font-weight: 600;
+    margin-right: 20px;
 `
 
-const Select = styled.select``
+const Select = styled.select`
+    padding: 10px;
+    margin-right: 20px;
+`
 
 const Option = styled.option``
 
@@ -49,11 +53,25 @@ const ProductList = () => {
                         <Option>Eletrônicos para Quarto</Option>
                         <Option>Eletrônicos para Banheiro</Option>
                     </Select>
+                    <Select>
+                        <Option disable selected>
+                            Televisores
+                        </Option>
+                        <Option>Televisores LG</Option>
+                        <Option>Televisores Samsung</Option>
+                        <Option>Televisores AOC Roku</Option>
+                        <Option>Televisores Philco</Option>
+                    </Select>
                 </Filter>
                 <Filter>
                     <FilterText>
                         Produtos Aleatórios:
                     </FilterText>
+                    <Select>
+                        <Option selected>O mais novo</Option>
+                        <Option>Preço (Maior)</Option>
+                        <Option>Preço (Menor)</Option>
+                    </Select>
                 </Filter>
             </FilterContainer>
             <Products />
